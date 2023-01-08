@@ -1,5 +1,4 @@
 # Thực hành git
-README.md 12/5/2022
 Đây là Github repo cho thực hành Git.
 
 ## Phần 1 - cấu hình Git

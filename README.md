@@ -16,6 +16,7 @@ Lênh để khởi tạo Git repo là: `git init`
 ## Phần 3 - Commit
 
 Dung hai lệnh để commit thay đổi lên Git repo:
+
 ```
 git add .!
 

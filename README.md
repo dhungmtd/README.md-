@@ -1,4 +1,4 @@
-### Thực hành git
+# Thực hành git
 Đây là Github repo cho thực hành Git.
 
 ## Phần 1 - cấu hình Git

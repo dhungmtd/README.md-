@@ -1,4 +1,4 @@
-# Thực hành git
+### Thực hành git
 Đây là Github repo cho thực hành Git.
 
 ## Phần 1 - cấu hình Git
@@ -11,7 +11,7 @@ git config --global user.email "abc@zy.com"
 
 ## Phần 2 - Khởi tạo Git repo
 
-Lênh để khởi tạo Git repo là: ``git init``
+Lênh để khởi tạo Git repo là: `git init`
 
 ## Phần 3 - Commit
 
